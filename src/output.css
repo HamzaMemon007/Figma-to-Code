@@ -589,6 +589,10 @@ video {
   width: 24rem;
 }
 
+.max-w-72 {
+  max-width: 18rem;
+}
+
 .cursor-pointer {
   cursor: pointer;
 }
@@ -641,8 +645,8 @@ video {
   gap: 1rem;
 }
 
-.gap-5 {
-  gap: 1.25rem;
+.gap-8 {
+  gap: 2rem;
 }
 
 .gap-1 {
@@ -685,6 +689,11 @@ video {
   background-color: rgb(173 52 62 / var(--tw-bg-opacity, 1));
 }
 
+.bg-customfooter {
+  --tw-bg-opacity: 1;
+  background-color: rgb(71 71 71 / var(--tw-bg-opacity, 1));
+}
+
 .bg-zinc-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(113 113 122 / var(--tw-bg-opacity, 1));
@@ -707,8 +716,13 @@ video {
   background-repeat: no-repeat;
 }
 
+<<<<<<< HEAD
 .p-4 {
   padding: 1rem;
+=======
+.p-28 {
+  padding: 7rem;
+>>>>>>> 297a6c04214b1d1446ad451734f406c4355bbc08
 }
 
 .px-20 {
@@ -726,9 +740,9 @@ video {
   padding-right: 1rem;
 }
 
-.px-48 {
-  padding-left: 12rem;
-  padding-right: 12rem;
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
 }
 
 .py-1 {
@@ -773,9 +787,9 @@ video {
   font-family: Playfair Display, serif;
 }
 
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
 }
 
 .text-4xl {
@@ -802,8 +816,9 @@ video {
   font-weight: 700;
 }
 
-.font-semibold {
-  font-weight: 600;
+.text-customGray {
+  --tw-text-opacity: 1;
+  color: rgb(173 178 158 / var(--tw-text-opacity, 1));
 }
 
 .font-medium {
@@ -825,6 +840,29 @@ video {
   color: rgb(75 85 99 / var(--tw-text-opacity, 1));
 }
 
+<<<<<<< HEAD
+=======
+.text-slate-100 {
+  --tw-text-opacity: 1;
+  color: rgb(241 245 249 / var(--tw-text-opacity, 1));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-customGrayGreen {
+  --tw-text-opacity: 1;
+  color: rgb(71 71 71 / var(--tw-text-opacity, 1));
+}
+
+.text-red-700 {
+  --tw-text-opacity: 1;
+  color: rgb(185 28 28 / var(--tw-text-opacity, 1));
+}
+
+>>>>>>> 297a6c04214b1d1446ad451734f406c4355bbc08
 .text-red-800 {
   --tw-text-opacity: 1;
   color: rgb(153 27 27 / var(--tw-text-opacity, 1));

@@ -7,6 +7,11 @@ export const theme = {
     },
     fontFamily: {
       'playfair': ['Playfair Display', 'serif'],
+      'dmsans': ['DM Sans', 'serif'],
+    },
+    colors: {
+      'customGreen': '#2C2F24',
+      'customRed':"#AD343E",
     },
   },
 };

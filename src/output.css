@@ -558,20 +558,8 @@ video {
   display: flex;
 }
 
-.h-11 {
-  height: 2.75rem;
-}
-
 .h-8 {
   height: 2rem;
-}
-
-.min-h-screen {
-  min-height: 100vh;
-}
-
-.min-h-10 {
-  min-height: 2.5rem;
 }
 
 .min-h-80 {
@@ -640,6 +628,30 @@ video {
 .py-2 {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+}
+
+.font-playfair {
+  font-family: Playfair Display, serif;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
+.text-9xl {
+  font-size: 8rem;
+  line-height: 1;
+}
+
+.text-8xl {
+  font-size: 6rem;
+  line-height: 1;
 }
 
 .text-white {

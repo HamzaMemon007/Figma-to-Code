@@ -12,7 +12,14 @@ export const theme = {
     colors: {
       'customGreen': '#2C2F24',
       'customRed':"#AD343E",
-      'customGray':"#DBDFD0"
+      'customGray':"#DBDFD0",
+
+
+
+
+
+      'customfooter':"#474747",
+      'customGray':"#ADB29E",
     },
     
     

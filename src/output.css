@@ -636,6 +636,10 @@ video {
   bottom: -50px;
 }
 
+.right-10 {
+  right: 2.5rem;
+}
+
 .z-30 {
   z-index: 30;
 }
@@ -711,6 +715,10 @@ video {
 
 .max-w-72 {
   max-width: 18rem;
+}
+
+.max-w-80 {
+  max-width: 20rem;
 }
 
 .cursor-pointer {

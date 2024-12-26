@@ -23,4 +23,4 @@ export const theme = {
 };
 export const plugins = [];
 
-// npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+// `npx tailwindcss -i ./src/input.css -o ./src/output.css --watch`

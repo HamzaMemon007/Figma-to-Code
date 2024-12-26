@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components{
+    .activeLink{
+        
+            background-color: #DBDFD0;
+            border-radius:9999px;
+            color: #2C2F24;
+            
+          
+    }
+}

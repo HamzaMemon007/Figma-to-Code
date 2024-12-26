@@ -14,11 +14,8 @@ export const theme = {
       'customRed':"#AD343E",
       'customGray':"#DBDFD0"
     },
-    activeLink:{
-      backgroundColor: '#DBDFD0',
-      borderRadius:'9999px',
-      color:'customGreen',
-    }
+    
+    
   },
 };
 export const plugins = [];

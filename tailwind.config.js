@@ -19,8 +19,9 @@ export const theme = {
 
 
       'customfooter':"#474747",
-      'customGray':"#ADB29E",
+      'custom-Gray':"#ADB29E",
       'customGrayGreen': "#474747"
+      'customLight':"#F9F9F7"
     },
     
     

@@ -12,7 +12,13 @@ export const theme = {
     colors: {
       'customGreen': '#2C2F24',
       'customRed':"#AD343E",
+      'customGray':"#DBDFD0"
     },
+    activeLink:{
+      backgroundColor: '#DBDFD0',
+      borderRadius:'9999px',
+      color:'customGreen',
+    }
   },
 };
 export const plugins = [];

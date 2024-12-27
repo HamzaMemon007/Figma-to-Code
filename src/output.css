@@ -898,6 +898,10 @@ video {
   padding-right: 4rem;
 }
 
+.pr-24 {
+  padding-right: 6rem;
+}
+
 .text-center {
   text-align: center;
 }

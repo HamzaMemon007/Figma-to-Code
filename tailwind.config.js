@@ -17,6 +17,7 @@ export const theme = {
       'custom-Gray':"#ADB29E",
       'customGrayGreen': "#474747",
       'customLight':"#F9F9F7",
+      'customBorderFooter':"#414536",
     },
     
     
